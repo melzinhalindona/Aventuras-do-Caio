@@ -1,0 +1,266 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; CrOS armv7l 13597.84.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.98 Safari/537.36" version="28.2.5">
+  <diagram name="Página-1" id="y2aEvi-OVyD3LgwBiUQH">
+    <mxGraphModel dx="2296" dy="8412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3cVu0KUaJyWp0lAu-d9h-44" value="" style="group;fontColor=#EA6B66;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="424" y="-7630" width="320" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="3cVu0KUaJyWp0lAu-d9h-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" parent="3cVu0KUaJyWp0lAu-d9h-44" vertex="1">
+          <mxGeometry width="320" height="179.99999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="3cVu0KUaJyWp0lAu-d9h-34" value="Fomos para uma festa com muitas pessoas, e levamos o caio junto, na esperança de encontrar o amor de sua vida. Chegando lá, duas pessoas vieram ao nosso encontro!&lt;div&gt;Com quem o Caio vai conversar primeiro?&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="3cVu0KUaJyWp0lAu-d9h-44" vertex="1">
+          <mxGeometry x="5.161290322580644" y="20.289831932773108" width="309.6774193548387" height="139.41176470588232" as="geometry" />
+        </mxCell>
+        <mxCell id="3cVu0KUaJyWp0lAu-d9h-45" value="" style="group;fontSize=16;fontStyle=2" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="370" y="-7350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3cVu0KUaJyWp0lAu-d9h-37" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="3cVu0KUaJyWp0lAu-d9h-45" vertex="1">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3cVu0KUaJyWp0lAu-d9h-66" value="&lt;b&gt;&lt;i&gt;&lt;u&gt;Ana Beatriz&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="3cVu0KUaJyWp0lAu-d9h-45" vertex="1">
+          <mxGeometry x="15" y="15" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3cVu0KUaJyWp0lAu-d9h-54" value="" style="group" parent="3cVu0KUaJyWp0lAu-d9h-45" vertex="1" connectable="0">
+          <mxGeometry x="-190" y="-310" width="229" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="3cVu0KUaJyWp0lAu-d9h-22" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="3cVu0KUaJyWp0lAu-d9h-54" vertex="1">
+          <mxGeometry y="62" width="110" height="248" as="geometry" />
+        </mxCell>
+        <mxCell id="3cVu0KUaJyWp0lAu-d9h-25" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" parent="3cVu0KUaJyWp0lAu-d9h-54" vertex="1">
+          <mxGeometry x="79" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3cVu0KUaJyWp0lAu-d9h-26" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley" parent="3cVu0KUaJyWp0lAu-d9h-54" vertex="1">
+          <mxGeometry x="27.5" y="60" width="55" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3cVu0KUaJyWp0lAu-d9h-28" value="Vamos arrumar uma namorada para o Caio?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3cVu0KUaJyWp0lAu-d9h-54" vertex="1">
+          <mxGeometry x="104" y="20" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3cVu0KUaJyWp0lAu-d9h-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" parent="1" source="3cVu0KUaJyWp0lAu-d9h-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="-7350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3cVu0KUaJyWp0lAu-d9h-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="3cVu0KUaJyWp0lAu-d9h-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="-7350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" parent="1" source="3cVu0KUaJyWp0lAu-d9h-59" target="e2qMgpBW9rc7yaszjSY--11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="-7050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="3cVu0KUaJyWp0lAu-d9h-59" target="e2qMgpBW9rc7yaszjSY--14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3cVu0KUaJyWp0lAu-d9h-59" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="120" y="-7250" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" parent="1" source="3cVu0KUaJyWp0lAu-d9h-60" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="-7050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3cVu0KUaJyWp0lAu-d9h-60" target="e2qMgpBW9rc7yaszjSY--13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="-7050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3cVu0KUaJyWp0lAu-d9h-60" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="720" y="-7250" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3cVu0KUaJyWp0lAu-d9h-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="3cVu0KUaJyWp0lAu-d9h-37" target="3cVu0KUaJyWp0lAu-d9h-59" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="-7250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3cVu0KUaJyWp0lAu-d9h-64" value="Laura é engraçada e divertida. Se deu bem com o Caio logo de cara. Laura convidou o Caio para tomar sorvete.&lt;div&gt;Sera que o Caio deve aceitar?&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="750" y="-7230" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="3cVu0KUaJyWp0lAu-d9h-81" target="3cVu0KUaJyWp0lAu-d9h-60" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3cVu0KUaJyWp0lAu-d9h-81" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="690" y="-7350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3cVu0KUaJyWp0lAu-d9h-90" value="&lt;b&gt;&lt;i&gt;&lt;u&gt;Laura&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="705" y="-7335" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3cVu0KUaJyWp0lAu-d9h-92" value="Ana Beatriz é bem tímida, parecia estar escondendo algo, mas logo se soltou com o Caio. Ana deu a ideia de ir ao cinema .&lt;div&gt;Será que ele deve aceitar?&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="140" y="-7230" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="350" y="-7050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="50" y="-7050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="e2qMgpBW9rc7yaszjSY--11" target="e2qMgpBW9rc7yaszjSY--42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--11" value="Não" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="350" y="-7050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="e2qMgpBW9rc7yaszjSY--14" target="e2qMgpBW9rc7yaszjSY--38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--14" value="Sim" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="-7050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--35" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="650" y="-7050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="e2qMgpBW9rc7yaszjSY--35" vertex="1">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--12" value="Sim" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="e2qMgpBW9rc7yaszjSY--35" vertex="1">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--36" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="950" y="-7040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="e2qMgpBW9rc7yaszjSY--36" vertex="1">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--13" value="Não" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="e2qMgpBW9rc7yaszjSY--36" vertex="1">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="e2qMgpBW9rc7yaszjSY--38" target="e2qMgpBW9rc7yaszjSY--45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--38" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="-6900" width="260" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--39" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Ana Beatriz na verdade era uma serial killer e descobrimos que Caio estava na sua lista, mas foi tarde demais. Ana sequestrou Caio e o prendeu em um galpão longe do país. Faz 7 anos que Caio esta desaparecido.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="-6890" width="240" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" parent="1" source="e2qMgpBW9rc7yaszjSY--42" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="-6620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--42" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="1" vertex="1">
+          <mxGeometry x="280" y="-6900" width="260" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--44" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Ana ficou revoltada e bolou um plano para ter Caio para sempre. Decorou seus caminhos e seus compromissos e esperou o momento certo para sequestra-lo. Invadiu sua casa e levou Caio para longe do país.&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Faz 9 anos que estamos a procura de Caio.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="290" y="-6890" width="240" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" parent="1" source="e2qMgpBW9rc7yaszjSY--45" target="e2qMgpBW9rc7yaszjSY--55" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="-6360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--45" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="185" y="-6620" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--48" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;Você perdeu!&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="190" y="-6610" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--50" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="1" vertex="1">
+          <mxGeometry x="580" y="-6900" width="260" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--51" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="1" vertex="1">
+          <mxGeometry x="880" y="-6900" width="260" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="e2qMgpBW9rc7yaszjSY--12" target="e2qMgpBW9rc7yaszjSY--50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="e2qMgpBW9rc7yaszjSY--13" target="e2qMgpBW9rc7yaszjSY--51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--55" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="60" y="-6390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="119.80952380952385" y="-6200" as="targetPoint" />
+            <mxPoint x="120" y="-6330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--56" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Mas calma...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="55" y="-6387.5" width="130" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="e2qMgpBW9rc7yaszjSY--58" target="e2qMgpBW9rc7yaszjSY--75" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="124.88888888888891" y="-6020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--58" value="Avistamos Ana Beatriz na rua! Mas ela estava com o cabelo diferente... e com uma roupa esquisita..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="25" y="-6200" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="e2qMgpBW9rc7yaszjSY--75" target="e2qMgpBW9rc7yaszjSY--78" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="119.80952380952385" y="-5860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--75" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-6020" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--76" value="Ela estava disfarçada!" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="30" y="-6005" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U0GAW9w5oHAkWwj48mF4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="e2qMgpBW9rc7yaszjSY--78" target="U0GAW9w5oHAkWwj48mF4-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-40" y="-5540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--78" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="-5850" width="220" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="e2qMgpBW9rc7yaszjSY--80" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Chegamos nela por trás e...&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Pegamos ela!! Levamos Ana para a delegacia, onde conseguiram descobrir onde Caio estava, e logo após ela foi presa.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="-5840" width="220" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="U0GAW9w5oHAkWwj48mF4-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="-5530" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="U0GAW9w5oHAkWwj48mF4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="U0GAW9w5oHAkWwj48mF4-3" target="U0GAW9w5oHAkWwj48mF4-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U0GAW9w5oHAkWwj48mF4-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Porém, ao chegar na casa onde Caio estava, ficamos chocados ao ver...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="-110" y="-5530" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="U0GAW9w5oHAkWwj48mF4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" parent="1" source="U0GAW9w5oHAkWwj48mF4-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-160" y="-5030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U0GAW9w5oHAkWwj48mF4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" parent="1" source="U0GAW9w5oHAkWwj48mF4-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="-5030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U0GAW9w5oHAkWwj48mF4-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="-240" y="-5300" width="320" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="U0GAW9w5oHAkWwj48mF4-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Caio havia formado uma família com a Ana! Tiveram 4 filhos juntos. Fomos falar com o Caio para saber o que que tinha acontecido e ele disse que havia se apaixonado perdidamente por Ana Beatriz e tinham decidido viver felizes juntos, mas disse que havíamos estragado seus planos. E agora, o que devemos fazer?&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="-230" y="-5290" width="300" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="U0GAW9w5oHAkWwj48mF4-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-230" y="-5030" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EBxP62uT_UjAA-Rk3rM2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="U0GAW9w5oHAkWwj48mF4-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="-4880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U0GAW9w5oHAkWwj48mF4-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-60" y="-5030" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="U0GAW9w5oHAkWwj48mF4-12" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Levar Caio e os filhos para um lugar melhor, mas mantem Ana presa.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-220" y="-5020" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="U0GAW9w5oHAkWwj48mF4-13" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Invadir a cadeia, libertar Ana e levar ela e sua família para outro país.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="-5020" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EBxP62uT_UjAA-Rk3rM2-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="-4880" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EBxP62uT_UjAA-Rk3rM2-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Fomos pegos! Os policias nos viram tentando quebrar uma janela...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="-4870" width="110" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
